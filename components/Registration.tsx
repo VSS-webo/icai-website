@@ -6,7 +6,7 @@ export default function Registration() {
       <div className="max-w-4xl mx-auto px-6">
 
         {/* Section heading */}
-        <h2 className="text-4xl md:text-5xl font-semibold  text-center mb-4 text-white">
+        <h2 className="text-4xl md:text-5xl font-normal  text-center mb-4 text-white">
           Registration Details
         </h2>
 
@@ -24,6 +24,8 @@ export default function Registration() {
                 <th className="py-3 px-4 border-r border-gray-700">Early Bird (Before DD/MM/2026)</th>
                 <th className="py-3 px-4 rounded-tr-lg">Registration (After DD/MM/2026)</th>
               </tr>
+            
+            
             </thead>
             <tbody className="divide-y divide-gray-700">
               <tr className="hover:bg-slate-700 transition-colors duration-200">

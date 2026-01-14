@@ -110,6 +110,7 @@ export default function ConferenceTracks() {
            transition-all duration-300"
 
             >
+                
               <h3 className="text-lg md:text-xl font-semibold mb-3 text-violet-400">{track.title}</h3>
               <ul className="list-disc list-inside space-y-1 text-gray-300 text-sm md:text-base">
                 {track.points.map((point, i) => (
