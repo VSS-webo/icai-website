@@ -118,6 +118,10 @@ export default function Registration() {
             </li>
 
             <li>
+              The paper should be submitted with a plagiarism report of up to 15%.
+            </li>
+
+            <li>
               The conference registration fees do not include the journal publication charges.
             </li>
 
