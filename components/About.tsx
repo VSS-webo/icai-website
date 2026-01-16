@@ -269,15 +269,27 @@ export default function About() {
 
           {/* Text */}
           <div>
-            <h3 className="text-3xl font-semibold text-violet-400 mb-3">
+            <h3 className="text-3xl font-semibold text-violet-400 mb-3 text-center">
               Pune Vidyarthi Griha (PVG)
             </h3>
-            <p className="text-gray-300 leading-relaxed text-lg">
-              Established in 1909, Pune Vidyarthi Griha (PVG) is a premier
-              charitable educational institution committed to inclusive,
-              value-based, and quality education. With institutions across
-              Pune, Mumbai, and Nashik, PVG has played a pioneering role in
-              technical and professional education in India.
+            <p className="text-gray-300 leading-relaxed text-lg-centered">
+              Pune Vidyarthi Griha <a href='https://www.punevidyarthigriha.org/' target='_blank' className="text-sky-400 hover:underline">PVG</a>, formerly known as Pune Anath Vidyarthi
+              Griha, is a prestigious charitable educational institution established in 1909 by visionary
+              educationists with the mission of providing inclusive, value-based, and quality education to
+              deserving sections of society. Over the past century, PVG has evolved into a comprehensive
+              educational organization with institutions located in Pune, Mumbai, and Nashik, offering academic
+              programs from pre-primary to higher education across engineering, technology, management,
+              science, and allied disciplines.
+              PVG has played a pioneering role in technical and professional education, notably being
+              the first institution in India to introduce formal education in Printing Engineering and
+              Communication Technology since 1926, with AICTE-approved diploma and degree programs. In
+              addition to academic excellence, PVG is deeply committed to social responsibility through its hostels
+              for needy students and its old-age home in Pune.
+              With a strong legacy of innovation, research, and technical publishing through its modern
+              printing and publications division, PVG provides an ideal academic ecosystem for hosting
+              international conferences that foster knowledge exchange, interdisciplinary research, and
+              global collaboration.
+
             </p>
           </div>
 
