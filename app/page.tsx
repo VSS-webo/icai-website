@@ -78,6 +78,9 @@ import ConferenceTracks from '@/components/Conference Track'
 import Registration from '@/components/Registration'
 import Committee from '@/components/Committee'
 import ImportantDates from '@/components/Important-dates'
+import AdvisorySection from '@/components/international-advisory'
+import NationalAdvisorySection from '@/components/national-advisory'
+
 
 export default function Home(){
   return(
@@ -91,6 +94,8 @@ export default function Home(){
       <ImportantDates/>
       <Schedule />
       <Registration/>
+      <AdvisorySection/>
+      <NationalAdvisorySection/>
       <Venue />
       <Sponsors />
       <Footer />
