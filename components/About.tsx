@@ -309,7 +309,7 @@ export default function About() {
 
           {/* Text */}
           <div>
-            <h3 className="text-3xl font-semibold text-violet-400 mb-3">
+            <h3 className="text-3xl font-semibold text-violet-400 mb-3 text-center">
               PVG’s COETM, Pune-09
 
             </h3>
