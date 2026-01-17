@@ -69,7 +69,7 @@ export default function VenueContact() {
             </p>
             
             <p className="text-gray-200">
-              <strong>Website:</strong> <a href="https://icaetm2026.com" target="_blank" className="text-sky-400 hover:underline">www.icaetm2026.com</a>
+              <strong>Website:</strong> <a href="https://icaetm-website-ebon.vercel.app/" target="_blank" className="text-sky-400 hover:underline">www.icaetm2026.com</a>
             </p>
           </div>
 

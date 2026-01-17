@@ -230,7 +230,7 @@ export default function Navbar() {
 
           {/* Logo */}
           <span className="font-semibold text-lg text-white mr-6">
-            ICAETM 2026
+            <a href='https://icaetm-website-ebon.vercel.app/' >ICAETM 2026</a>
           </span>
 
           {/* Navbar Links */}
