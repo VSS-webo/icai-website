@@ -144,6 +144,7 @@ const tracks: Track[] = [
       "Electric, hybrid, and autonomous mobility solutions",
       "EV powertrains, batteries, charging infrastructure, and V2X",
       "Energy storage systems and management",
+      "Power system operation, control, and protection",
       "Smart grids, renewable integration, and power electronics",
       "Green energy solutions and net-zero technologies",
     ]
